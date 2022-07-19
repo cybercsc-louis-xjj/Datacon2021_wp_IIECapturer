@@ -1,0 +1,6485 @@
+Sep 28, 2021 15:51:46.845272000 CST
+Sep 28, 2021 15:51:47.772421000 CST
+54599
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:51:52.944036000 CST
+Sep 28, 2021 15:51:53.653908000 CST
+54600
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:51:58.833815000 CST
+Sep 28, 2021 15:51:59.754569000 CST
+54601
+clientSum: 1775
+serverSum: 18430
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16991)
+
+Sep 28, 2021 15:52:01.924255000 CST
+Sep 28, 2021 15:52:02.621535000 CST
+54602
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:52:04.816772000 CST
+Sep 28, 2021 15:52:05.518033000 CST
+54603
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:52:07.711421000 CST
+Sep 28, 2021 15:52:08.400400000 CST
+54604
+clientSum: 1775
+serverSum: 18669
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 4751)
+
+Sep 28, 2021 15:52:08.622447000 CST
+Sep 28, 2021 15:52:09.675952000 CST
+54605
+clientSum: 1631
+serverSum: 8926
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 0)
+	 ('server', 4367)
+	 ('server', 0)
+	 ('server', 4559)
+
+Sep 28, 2021 15:52:11.871767000 CST
+Sep 28, 2021 15:52:12.559291000 CST
+54606
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:52:14.748999000 CST
+Sep 28, 2021 15:52:15.434611000 CST
+54607
+clientSum: 1775
+serverSum: 18335
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18335)
+
+Sep 28, 2021 15:52:15.755856000 CST
+Sep 28, 2021 15:52:16.421894000 CST
+54608
+clientSum: 3838
+serverSum: 13197
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 2495)
+	 ('server', 1439)
+	 ('server', 7775)
+	 ('server', 3983)
+
+Sep 28, 2021 15:52:18.592453000 CST
+Sep 28, 2021 15:52:19.290740000 CST
+54609
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:52:21.519391000 CST
+Sep 28, 2021 15:52:22.202061000 CST
+54610
+clientSum: 1775
+serverSum: 16414
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 10655)
+
+Sep 28, 2021 15:52:24.387095000 CST
+Sep 28, 2021 15:52:25.355254000 CST
+54611
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:52:27.534586000 CST
+Sep 28, 2021 15:52:28.234821000 CST
+54612
+clientSum: 1775
+serverSum: 18478
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 17039)
+
+Sep 28, 2021 15:52:28.467850000 CST
+Sep 28, 2021 15:52:29.279048000 CST
+54613
+clientSum: 1631
+serverSum: 16653
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 1439)
+	 ('server', 6335)
+	 ('server', 8879)
+
+Sep 28, 2021 15:52:31.759248000 CST
+Sep 28, 2021 15:52:32.442986000 CST
+54614
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 5615)
+
+Sep 28, 2021 15:52:34.624528000 CST
+Sep 28, 2021 15:52:35.283460000 CST
+54615
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:52:37.474103000 CST
+Sep 28, 2021 15:52:38.155353000 CST
+54616
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:52:40.348484000 CST
+Sep 28, 2021 15:52:41.036679000 CST
+54617
+clientSum: 1775
+serverSum: 18430
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 14783)
+
+Sep 28, 2021 15:52:41.197079000 CST
+Sep 28, 2021 15:52:41.917630000 CST
+54618
+clientSum: 2927
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2927)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:52:44.084571000 CST
+Sep 28, 2021 15:52:44.875968000 CST
+54619
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:52:47.060359000 CST
+Sep 28, 2021 15:52:47.772649000 CST
+54620
+clientSum: 1775
+serverSum: 18957
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 10271)
+	 ('server', 0)
+	 ('server', 5039)
+
+Sep 28, 2021 15:52:47.923096000 CST
+Sep 28, 2021 15:52:48.603794000 CST
+54621
+clientSum: 3023
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 3023)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:52:50.784771000 CST
+Sep 28, 2021 15:52:51.596233000 CST
+54622
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:52:53.786354000 CST
+Sep 28, 2021 15:52:54.882208000 CST
+54623
+clientSum: 1775
+serverSum: 18335
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18335)
+
+Sep 28, 2021 15:52:55.106364000 CST
+Sep 28, 2021 15:52:56.076741000 CST
+54624
+clientSum: 1631
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 1439)
+	 ('server', 7775)
+
+Sep 28, 2021 15:52:58.249245000 CST
+Sep 28, 2021 15:52:58.964971000 CST
+54625
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:53:01.148699000 CST
+Sep 28, 2021 15:53:01.836872000 CST
+54626
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:53:04.013321000 CST
+Sep 28, 2021 15:53:04.717996000 CST
+54627
+clientSum: 1775
+serverSum: 18766
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 17327)
+
+Sep 28, 2021 15:53:04.886995000 CST
+Sep 28, 2021 15:53:05.608123000 CST
+54628
+clientSum: 3119
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 3119)
+	 ('server', 1439)
+	 ('server', 7775)
+
+Sep 28, 2021 15:53:07.771343000 CST
+Sep 28, 2021 15:53:08.556315000 CST
+54629
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 7583)
+	 ('server', 0)
+	 ('server', 10655)
+
+Sep 28, 2021 15:53:10.758088000 CST
+Sep 28, 2021 15:53:11.676523000 CST
+54630
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:53:13.844077000 CST
+Sep 28, 2021 15:53:14.637443000 CST
+54631
+clientSum: 1775
+serverSum: 18957
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 8879)
+	 ('server', 0)
+	 ('server', 8639)
+
+Sep 28, 2021 15:53:14.802161000 CST
+Sep 28, 2021 15:53:15.597273000 CST
+54632
+clientSum: 3119
+serverSum: 18381
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 3119)
+	 ('server', 1439)
+	 ('server', 7775)
+	 ('server', 9167)
+
+Sep 28, 2021 15:53:17.838046000 CST
+Sep 28, 2021 15:53:18.536666000 CST
+54633
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:53:20.746225000 CST
+Sep 28, 2021 15:53:21.678189000 CST
+54634
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:53:23.849506000 CST
+Sep 28, 2021 15:53:24.521687000 CST
+54635
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:53:26.698887000 CST
+Sep 28, 2021 15:53:27.439352000 CST
+54636
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:53:29.626669000 CST
+Sep 28, 2021 15:53:30.364661000 CST
+54637
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:53:32.567227000 CST
+Sep 28, 2021 15:53:33.299902000 CST
+54638
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:53:35.657428000 CST
+Sep 28, 2021 15:53:36.397574000 CST
+54639
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:53:38.587479000 CST
+Sep 28, 2021 15:53:39.290613000 CST
+54640
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 13007)
+	 ('server', 0)
+	 ('server', 5183)
+
+Sep 28, 2021 15:53:41.483005000 CST
+Sep 28, 2021 15:53:42.477223000 CST
+54641
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:53:44.671980000 CST
+Sep 28, 2021 15:53:45.357459000 CST
+54642
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:53:47.527046000 CST
+Sep 28, 2021 15:53:48.536979000 CST
+54643
+clientSum: 1775
+serverSum: 351675
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 14255)
+	 ('server', 0)
+	 ('server', 18623)
+	 ('server', 0)
+	 ('server', 10655)
+	 ('server', 0)
+	 ('server', 14255)
+	 ('server', 0)
+	 ('server', 40319)
+	 ('server', 13535)
+	 ('server', 1967)
+	 ('server', 0)
+	 ('server', 49007)
+	 ('server', 36287)
+	 ('server', 24767)
+	 ('server', 25823)
+	 ('server', 6335)
+	 ('server', 13199)
+	 ('server', 16079)
+	 ('server', 1967)
+	 ('server', 12479)
+	 ('server', 8879)
+	 ('server', 4511)
+	 ('server', 11711)
+	 ('server', 21263)
+
+Sep 28, 2021 15:53:49.829700000 CST
+Sep 28, 2021 15:53:50.499791000 CST
+54644
+clientSum: 2207
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 7775)
+
+Sep 28, 2021 15:53:52.690315000 CST
+Sep 28, 2021 15:53:53.358842000 CST
+54645
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:53:55.528154000 CST
+Sep 28, 2021 15:53:56.239011000 CST
+54646
+clientSum: 1775
+serverSum: 18478
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 13727)
+	 ('server', 0)
+	 ('server', 4751)
+
+Sep 28, 2021 15:53:56.455287000 CST
+Sep 28, 2021 15:53:57.198681000 CST
+54647
+clientSum: 1631
+serverSum: 1439
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 1439)
+
+Sep 28, 2021 15:53:59.440184000 CST
+Sep 28, 2021 15:54:00.404388000 CST
+54648
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:54:02.591413000 CST
+Sep 28, 2021 15:54:03.278694000 CST
+54649
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:54:05.451173000 CST
+Sep 28, 2021 15:54:06.141757000 CST
+54650
+clientSum: 1775
+serverSum: 18478
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 13727)
+	 ('server', 0)
+	 ('server', 4751)
+
+Sep 28, 2021 15:54:06.365148000 CST
+Sep 28, 2021 15:54:07.118339000 CST
+54651
+clientSum: 1631
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 0)
+	 ('server', 4367)
+	 ('server', 13823)
+
+Sep 28, 2021 15:54:09.276264000 CST
+Sep 28, 2021 15:54:10.004419000 CST
+54652
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:54:12.241693000 CST
+Sep 28, 2021 15:54:13.205239000 CST
+54653
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:54:15.384437000 CST
+Sep 28, 2021 15:54:16.082528000 CST
+54654
+clientSum: 1775
+serverSum: 18478
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 17039)
+
+Sep 28, 2021 15:54:16.307280000 CST
+Sep 28, 2021 15:54:16.977630000 CST
+54655
+clientSum: 1631
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 1439)
+	 ('server', 7775)
+
+Sep 28, 2021 15:54:19.280249000 CST
+Sep 28, 2021 15:54:19.971133000 CST
+54656
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:54:22.153303000 CST
+Sep 28, 2021 15:54:22.815750000 CST
+54657
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 0)
+	 ('server', 14591)
+
+Sep 28, 2021 15:54:25.023095000 CST
+Sep 28, 2021 15:54:25.687523000 CST
+54658
+clientSum: 1775
+serverSum: 18239
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18239)
+
+Sep 28, 2021 15:54:55.878156000 CST
+Sep 28, 2021 15:54:56.720670000 CST
+54659
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:55:26.932007000 CST
+Sep 28, 2021 15:55:27.741231000 CST
+54660
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:55:57.914228000 CST
+Sep 28, 2021 15:55:58.895828000 CST
+54661
+clientSum: 1775
+serverSum: 18430
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16991)
+
+Sep 28, 2021 15:56:00.116824000 CST
+Sep 28, 2021 15:56:00.782091000 CST
+54662
+clientSum: 1775
+serverSum: 18381
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3935)
+	 ('server', 9935)
+	 ('server', 4511)
+
+Sep 28, 2021 15:56:01.959470000 CST
+Sep 28, 2021 15:56:02.643457000 CST
+54663
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:03.818148000 CST
+Sep 28, 2021 15:56:04.563481000 CST
+54664
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 14591)
+
+Sep 28, 2021 15:56:05.734523000 CST
+Sep 28, 2021 15:56:06.486060000 CST
+54665
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:56:07.674488000 CST
+Sep 28, 2021 15:56:08.344700000 CST
+54666
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:09.520277000 CST
+Sep 28, 2021 15:56:10.305731000 CST
+54667
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:11.506651000 CST
+Sep 28, 2021 15:56:12.198142000 CST
+54668
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 14447)
+	 ('server', 3743)
+
+Sep 28, 2021 15:56:13.374463000 CST
+Sep 28, 2021 15:56:14.164105000 CST
+54669
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:15.359184000 CST
+Sep 28, 2021 15:56:16.178211000 CST
+54670
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:17.359306000 CST
+Sep 28, 2021 15:56:18.074928000 CST
+54671
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:19.271437000 CST
+Sep 28, 2021 15:56:20.244146000 CST
+54672
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:56:21.400689000 CST
+Sep 28, 2021 15:56:22.178748000 CST
+54673
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:23.384483000 CST
+Sep 28, 2021 15:56:24.409831000 CST
+54674
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 0)
+	 ('server', 12431)
+
+Sep 28, 2021 15:56:25.599005000 CST
+Sep 28, 2021 15:56:26.322756000 CST
+54675
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 15:56:27.521081000 CST
+Sep 28, 2021 15:56:28.244982000 CST
+54676
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 15:56:29.414853000 CST
+Sep 28, 2021 15:56:30.163942000 CST
+54677
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 0)
+	 ('server', 12431)
+
+Sep 28, 2021 15:56:31.446006000 CST
+Sep 28, 2021 15:56:32.174119000 CST
+54678
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:56:33.378408000 CST
+Sep 28, 2021 15:56:34.051975000 CST
+54679
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:56:35.232958000 CST
+Sep 28, 2021 15:56:35.923803000 CST
+54680
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:37.096471000 CST
+Sep 28, 2021 15:56:37.844443000 CST
+54681
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:56:39.030807000 CST
+Sep 28, 2021 15:56:39.838386000 CST
+54682
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:41.033709000 CST
+Sep 28, 2021 15:56:41.706030000 CST
+54683
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 15:56:42.891537000 CST
+Sep 28, 2021 15:56:43.636727000 CST
+54684
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:56:44.900325000 CST
+Sep 28, 2021 15:56:45.614264000 CST
+54685
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 15:56:46.822945000 CST
+Sep 28, 2021 15:56:47.779648000 CST
+54686
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:56:48.967579000 CST
+Sep 28, 2021 15:56:49.683593000 CST
+54687
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:50.901317000 CST
+Sep 28, 2021 15:56:51.592682000 CST
+54688
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:56:52.776950000 CST
+Sep 28, 2021 15:56:53.523658000 CST
+54689
+clientSum: 1775
+serverSum: 18572
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 0)
+	 ('server', 4559)
+	 ('server', 4559)
+	 ('server', 0)
+	 ('server', 5807)
+
+Sep 28, 2021 15:56:54.688832000 CST
+Sep 28, 2021 15:56:55.364578000 CST
+54690
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:56.541677000 CST
+Sep 28, 2021 15:56:57.379001000 CST
+54691
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:56:58.554644000 CST
+Sep 28, 2021 15:56:59.349808000 CST
+54692
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:57:00.552048000 CST
+Sep 28, 2021 15:57:01.285451000 CST
+54693
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:57:02.454254000 CST
+Sep 28, 2021 15:57:03.150634000 CST
+54694
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 0)
+	 ('server', 9935)
+
+Sep 28, 2021 15:57:04.339488000 CST
+Sep 28, 2021 15:57:05.065301000 CST
+54695
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:57:06.258422000 CST
+Sep 28, 2021 15:57:06.984813000 CST
+54696
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:57:08.159235000 CST
+Sep 28, 2021 15:57:08.883781000 CST
+54697
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:57:10.059803000 CST
+Sep 28, 2021 15:57:10.728337000 CST
+54698
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:57:11.907213000 CST
+Sep 28, 2021 15:57:12.609519000 CST
+54699
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:57:13.797174000 CST
+Sep 28, 2021 15:57:14.498112000 CST
+54700
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3983)
+	 ('server', 14255)
+
+Sep 28, 2021 15:57:15.673092000 CST
+Sep 28, 2021 15:57:16.337634000 CST
+54701
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 8255)
+	 ('server', 8735)
+
+Sep 28, 2021 15:57:17.505506000 CST
+Sep 28, 2021 15:57:18.500794000 CST
+54702
+clientSum: 1775
+serverSum: 348080
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 37055)
+	 ('server', 0)
+	 ('server', 30911)
+	 ('server', 17567)
+	 ('server', 28367)
+	 ('server', 3791)
+	 ('server', 0)
+	 ('server', 49343)
+	 ('server', 49343)
+	 ('server', 49343)
+	 ('server', 17039)
+	 ('server', 7871)
+	 ('server', 17567)
+	 ('server', 5567)
+	 ('server', 17567)
+	 ('server', 13199)
+	 ('server', 2111)
+
+Sep 28, 2021 15:57:19.817303000 CST
+Sep 28, 2021 15:57:20.517955000 CST
+54703
+clientSum: 2207
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:57:21.717670000 CST
+Sep 28, 2021 15:57:22.446673000 CST
+54704
+clientSum: 1775
+serverSum: 16991
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 16991)
+
+Sep 28, 2021 15:57:23.639888000 CST
+Sep 28, 2021 15:57:24.308275000 CST
+54705
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:57:25.505895000 CST
+Sep 28, 2021 15:57:26.179561000 CST
+54706
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 5615)
+
+Sep 28, 2021 15:57:27.405910000 CST
+Sep 28, 2021 15:57:28.380601000 CST
+54707
+clientSum: 1775
+serverSum: 348790
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 38303)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 17567)
+	 ('server', 14255)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 16079)
+	 ('server', 17567)
+	 ('server', 17135)
+	 ('server', 6335)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 14591)
+	 ('server', 12479)
+	 ('server', 6335)
+	 ('server', 12479)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 13199)
+	 ('server', 13199)
+	 ('server', 13199)
+	 ('server', 4079)
+
+Sep 28, 2021 15:57:29.674139000 CST
+Sep 28, 2021 15:57:30.346101000 CST
+54708
+clientSum: 2207
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:57:31.550644000 CST
+Sep 28, 2021 15:57:32.268325000 CST
+54709
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:57:33.442150000 CST
+Sep 28, 2021 15:57:34.120630000 CST
+54710
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:57:35.315681000 CST
+Sep 28, 2021 15:57:36.048417000 CST
+54711
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:57:37.231235000 CST
+Sep 28, 2021 15:57:37.937505000 CST
+54712
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 15:57:39.107976000 CST
+Sep 28, 2021 15:57:39.780631000 CST
+54713
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:57:40.993792000 CST
+Sep 28, 2021 15:57:41.655029000 CST
+54714
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3983)
+	 ('server', 14255)
+
+Sep 28, 2021 15:57:42.831949000 CST
+Sep 28, 2021 15:57:43.504649000 CST
+54715
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:57:44.704022000 CST
+Sep 28, 2021 15:57:45.430666000 CST
+54716
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 13007)
+	 ('server', 0)
+	 ('server', 5183)
+
+Sep 28, 2021 15:57:46.615036000 CST
+Sep 28, 2021 15:57:47.315640000 CST
+54717
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:57:48.498985000 CST
+Sep 28, 2021 15:57:49.184630000 CST
+54718
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:57:50.352511000 CST
+Sep 28, 2021 15:57:51.166634000 CST
+54719
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:57:52.332815000 CST
+Sep 28, 2021 15:57:53.066117000 CST
+54720
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 12479)
+	 ('server', 4511)
+
+Sep 28, 2021 15:57:54.218056000 CST
+Sep 28, 2021 15:57:54.907540000 CST
+54721
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:57:56.085193000 CST
+Sep 28, 2021 15:57:57.044972000 CST
+54722
+clientSum: 1775
+serverSum: 351724
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 38303)
+	 ('server', 0)
+	 ('server', 6335)
+	 ('server', 0)
+	 ('server', 33455)
+	 ('server', 40655)
+	 ('server', 8879)
+	 ('server', 16079)
+	 ('server', 49343)
+	 ('server', 18623)
+	 ('server', 43199)
+	 ('server', 8879)
+	 ('server', 24767)
+	 ('server', 3791)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 13199)
+	 ('server', 5567)
+	 ('server', 8879)
+	 ('server', 6431)
+
+Sep 28, 2021 15:57:58.358503000 CST
+Sep 28, 2021 15:57:59.147854000 CST
+54723
+clientSum: 2207
+serverSum: 18381
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 11567)
+	 ('server', 5375)
+
+Sep 28, 2021 15:58:00.421973000 CST
+Sep 28, 2021 15:58:01.140730000 CST
+54724
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:02.356541000 CST
+Sep 28, 2021 15:58:03.067108000 CST
+54725
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:58:04.229016000 CST
+Sep 28, 2021 15:58:04.925793000 CST
+54726
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:06.089591000 CST
+Sep 28, 2021 15:58:06.760349000 CST
+54727
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:58:07.943221000 CST
+Sep 28, 2021 15:58:08.791548000 CST
+54728
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:58:09.977430000 CST
+Sep 28, 2021 15:58:10.638294000 CST
+54729
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 5615)
+
+Sep 28, 2021 15:58:11.820265000 CST
+Sep 28, 2021 15:58:12.581943000 CST
+54730
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:13.757239000 CST
+Sep 28, 2021 15:58:14.501453000 CST
+54731
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:15.674097000 CST
+Sep 28, 2021 15:58:16.516520000 CST
+54732
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 15:58:17.683036000 CST
+Sep 28, 2021 15:58:18.346922000 CST
+54733
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 8879)
+	 ('server', 8111)
+
+Sep 28, 2021 15:58:19.622586000 CST
+Sep 28, 2021 15:58:20.313414000 CST
+54734
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:58:21.543292000 CST
+Sep 28, 2021 15:58:22.257254000 CST
+54735
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:58:23.456808000 CST
+Sep 28, 2021 15:58:24.178606000 CST
+54736
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:25.399970000 CST
+Sep 28, 2021 15:58:26.346611000 CST
+54737
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3983)
+	 ('server', 0)
+	 ('server', 14255)
+
+Sep 28, 2021 15:58:27.542971000 CST
+Sep 28, 2021 15:58:28.267925000 CST
+54738
+clientSum: 1775
+serverSum: 18335
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18335)
+
+Sep 28, 2021 15:58:28.515264000 CST
+Sep 28, 2021 15:58:29.188930000 CST
+54739
+clientSum: 1631
+serverSum: 1439
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 1439)
+	 ('server', 0)
+
+Sep 28, 2021 15:58:30.362872000 CST
+Sep 28, 2021 15:58:31.030437000 CST
+54740
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:32.200205000 CST
+Sep 28, 2021 15:58:33.062385000 CST
+54741
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:34.231843000 CST
+Sep 28, 2021 15:58:34.901944000 CST
+54742
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:36.078823000 CST
+Sep 28, 2021 15:58:36.801073000 CST
+54743
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:37.993506000 CST
+Sep 28, 2021 15:58:38.731191000 CST
+54744
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:58:39.896830000 CST
+Sep 28, 2021 15:58:40.607126000 CST
+54745
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3983)
+	 ('server', 14255)
+
+Sep 28, 2021 15:58:41.824498000 CST
+Sep 28, 2021 15:58:42.663355000 CST
+54746
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 15:58:43.834481000 CST
+Sep 28, 2021 15:58:44.517570000 CST
+54747
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 15:58:45.701400000 CST
+Sep 28, 2021 15:58:46.471181000 CST
+54748
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:47.656907000 CST
+Sep 28, 2021 15:58:48.425364000 CST
+54749
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 14591)
+
+Sep 28, 2021 15:58:49.624171000 CST
+Sep 28, 2021 15:58:50.343904000 CST
+54750
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:51.540547000 CST
+Sep 28, 2021 15:58:52.605599000 CST
+54751
+clientSum: 1775
+serverSum: 351485
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 38303)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 3791)
+	 ('server', 8879)
+	 ('server', 16799)
+	 ('server', 14255)
+	 ('server', 3791)
+	 ('server', 12479)
+	 ('server', 4511)
+	 ('server', 1967)
+	 ('server', 6335)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 18623)
+	 ('server', 49343)
+	 ('server', 43199)
+	 ('server', 49343)
+	 ('server', 18623)
+	 ('server', 36719)
+	 ('server', 3167)
+
+Sep 28, 2021 15:58:53.956781000 CST
+Sep 28, 2021 15:58:54.822942000 CST
+54752
+clientSum: 2207
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:58:56.026735000 CST
+Sep 28, 2021 15:58:56.703933000 CST
+54753
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:58:57.922709000 CST
+Sep 28, 2021 15:58:58.665030000 CST
+54754
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:58:59.849034000 CST
+Sep 28, 2021 15:59:00.652376000 CST
+54755
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:59:01.842912000 CST
+Sep 28, 2021 15:59:02.520385000 CST
+54756
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 14591)
+
+Sep 28, 2021 15:59:03.707100000 CST
+Sep 28, 2021 15:59:04.427956000 CST
+54757
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:05.601444000 CST
+Sep 28, 2021 15:59:06.345829000 CST
+54758
+clientSum: 1775
+serverSum: 18572
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 4559)
+	 ('server', 0)
+	 ('server', 4559)
+	 ('server', 5807)
+
+Sep 28, 2021 15:59:07.562489000 CST
+Sep 28, 2021 15:59:08.263920000 CST
+54759
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:09.441147000 CST
+Sep 28, 2021 15:59:10.199395000 CST
+54760
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 0)
+	 ('server', 12431)
+
+Sep 28, 2021 15:59:11.361893000 CST
+Sep 28, 2021 15:59:12.108341000 CST
+54761
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:13.385025000 CST
+Sep 28, 2021 15:59:14.066259000 CST
+54762
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:59:15.228925000 CST
+Sep 28, 2021 15:59:15.943937000 CST
+54763
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3983)
+	 ('server', 14255)
+
+Sep 28, 2021 15:59:17.122483000 CST
+Sep 28, 2021 15:59:17.864170000 CST
+54764
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 14591)
+
+Sep 28, 2021 15:59:19.033313000 CST
+Sep 28, 2021 15:59:19.784145000 CST
+54765
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:20.957469000 CST
+Sep 28, 2021 15:59:21.704336000 CST
+54766
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 15:59:22.901121000 CST
+Sep 28, 2021 15:59:23.558023000 CST
+54767
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:24.741368000 CST
+Sep 28, 2021 15:59:25.547592000 CST
+54768
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 5615)
+
+Sep 28, 2021 15:59:26.724738000 CST
+Sep 28, 2021 15:59:28.201759000 CST
+54769
+clientSum: 1775
+serverSum: 352010
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 34943)
+	 ('server', 2303)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 18623)
+	 ('server', 13199)
+	 ('server', 20399)
+	 ('server', 16079)
+	 ('server', 18623)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 13199)
+	 ('server', 5567)
+	 ('server', 17567)
+	 ('server', 18623)
+	 ('server', 13535)
+	 ('server', 24767)
+	 ('server', 18623)
+	 ('server', 13199)
+	 ('server', 17855)
+	 ('server', 12479)
+	 ('server', 45839)
+
+Sep 28, 2021 15:59:29.507281000 CST
+Sep 28, 2021 15:59:30.171179000 CST
+54770
+clientSum: 2207
+serverSum: 3790
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 2351)
+
+Sep 28, 2021 15:59:31.363123000 CST
+Sep 28, 2021 15:59:32.060377000 CST
+54771
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 5615)
+
+Sep 28, 2021 15:59:33.278111000 CST
+Sep 28, 2021 15:59:34.192313000 CST
+54772
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:35.407639000 CST
+Sep 28, 2021 15:59:36.102975000 CST
+54773
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:37.279291000 CST
+Sep 28, 2021 15:59:38.028898000 CST
+54774
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:39.190662000 CST
+Sep 28, 2021 15:59:39.946151000 CST
+54775
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 15:59:41.126805000 CST
+Sep 28, 2021 15:59:41.866171000 CST
+54776
+clientSum: 1775
+serverSum: 18957
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 8879)
+	 ('server', 8639)
+
+Sep 28, 2021 15:59:42.023300000 CST
+Sep 28, 2021 15:59:42.699153000 CST
+54777
+clientSum: 3215
+serverSum: 9023
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 3215)
+	 ('server', 0)
+	 ('server', 9023)
+
+Sep 28, 2021 15:59:43.882108000 CST
+Sep 28, 2021 15:59:44.747503000 CST
+54778
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:45.916555000 CST
+Sep 28, 2021 15:59:46.636483000 CST
+54779
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 0)
+	 ('server', 12431)
+
+Sep 28, 2021 15:59:47.947059000 CST
+Sep 28, 2021 15:59:48.831615000 CST
+54780
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:50.021867000 CST
+Sep 28, 2021 15:59:50.733950000 CST
+54781
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 4511)
+
+Sep 28, 2021 15:59:51.914932000 CST
+Sep 28, 2021 15:59:52.616989000 CST
+54782
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:53.821351000 CST
+Sep 28, 2021 15:59:54.491946000 CST
+54783
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 15:59:55.701376000 CST
+Sep 28, 2021 15:59:56.413021000 CST
+54784
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 0)
+	 ('server', 9935)
+
+Sep 28, 2021 15:59:57.604981000 CST
+Sep 28, 2021 15:59:58.273618000 CST
+54785
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 15:59:59.480376000 CST
+Sep 28, 2021 16:00:00.269719000 CST
+54786
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:00:01.442816000 CST
+Sep 28, 2021 16:00:02.646015000 CST
+54787
+clientSum: 1775
+serverSum: 351582
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 32159)
+	 ('server', 0)
+	 ('server', 6335)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 18623)
+	 ('server', 26255)
+	 ('server', 17135)
+	 ('server', 6335)
+	 ('server', 18623)
+	 ('server', 18623)
+	 ('server', 24767)
+	 ('server', 18623)
+	 ('server', 15023)
+	 ('server', 9935)
+	 ('server', 49343)
+	 ('server', 18623)
+	 ('server', 6335)
+	 ('server', 12479)
+	 ('server', 39887)
+
+Sep 28, 2021 16:00:04.031365000 CST
+Sep 28, 2021 16:00:04.738817000 CST
+54788
+clientSum: 2495
+serverSum: 4367
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2495)
+	 ('server', 0)
+	 ('server', 4367)
+
+Sep 28, 2021 16:00:05.912663000 CST
+Sep 28, 2021 16:00:06.615948000 CST
+54789
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:00:07.813898000 CST
+Sep 28, 2021 16:00:08.554802000 CST
+54790
+clientSum: 1775
+serverSum: 17182
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 8879)
+
+Sep 28, 2021 16:00:09.723288000 CST
+Sep 28, 2021 16:00:10.408503000 CST
+54791
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:00:11.604088000 CST
+Sep 28, 2021 16:00:12.271004000 CST
+54792
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:13.463715000 CST
+Sep 28, 2021 16:00:14.130173000 CST
+54793
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:15.322067000 CST
+Sep 28, 2021 16:00:16.190789000 CST
+54794
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 16:00:17.387516000 CST
+Sep 28, 2021 16:00:18.381162000 CST
+54795
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:00:19.563812000 CST
+Sep 28, 2021 16:00:20.265832000 CST
+54796
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:21.462326000 CST
+Sep 28, 2021 16:00:22.178024000 CST
+54797
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:00:23.358003000 CST
+Sep 28, 2021 16:00:24.111245000 CST
+54798
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 8111)
+
+Sep 28, 2021 16:00:25.276059000 CST
+Sep 28, 2021 16:00:25.954667000 CST
+54799
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 0)
+	 ('server', 14591)
+
+Sep 28, 2021 16:00:27.395973000 CST
+Sep 28, 2021 16:00:28.599729000 CST
+54800
+clientSum: 1775
+serverSum: 351819
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 30191)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 28367)
+	 ('server', 18623)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 17567)
+	 ('server', 5567)
+	 ('server', 4511)
+	 ('server', 3791)
+	 ('server', 13199)
+	 ('server', 41375)
+	 ('server', 9935)
+	 ('server', 49343)
+	 ('server', 20831)
+	 ('server', 7679)
+	 ('server', 18623)
+	 ('server', 13199)
+	 ('server', 17567)
+	 ('server', 9311)
+
+Sep 28, 2021 16:00:29.904090000 CST
+Sep 28, 2021 16:00:30.827406000 CST
+54801
+clientSum: 2207
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:31.980431000 CST
+Sep 28, 2021 16:00:32.647370000 CST
+54802
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:33.827244000 CST
+Sep 28, 2021 16:00:34.667048000 CST
+54803
+clientSum: 1775
+serverSum: 18478
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+	 ('server', 431)
+
+Sep 28, 2021 16:00:34.904221000 CST
+Sep 28, 2021 16:00:35.599112000 CST
+54804
+clientSum: 1631
+serverSum: 1439
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 1439)
+
+Sep 28, 2021 16:00:36.914690000 CST
+Sep 28, 2021 16:00:37.637468000 CST
+54805
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3983)
+	 ('server', 0)
+	 ('server', 14255)
+
+Sep 28, 2021 16:00:38.825346000 CST
+Sep 28, 2021 16:00:39.487452000 CST
+54806
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 4223)
+	 ('server', 12767)
+
+Sep 28, 2021 16:00:40.643901000 CST
+Sep 28, 2021 16:00:41.386885000 CST
+54807
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 16:00:42.559189000 CST
+Sep 28, 2021 16:00:43.293194000 CST
+54808
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:44.461736000 CST
+Sep 28, 2021 16:00:45.147824000 CST
+54809
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:46.323651000 CST
+Sep 28, 2021 16:00:46.994606000 CST
+54810
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 13727)
+	 ('server', 0)
+	 ('server', 4511)
+
+Sep 28, 2021 16:00:48.177669000 CST
+Sep 28, 2021 16:00:48.892994000 CST
+54811
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:50.068380000 CST
+Sep 28, 2021 16:00:50.990494000 CST
+54812
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:52.169966000 CST
+Sep 28, 2021 16:00:53.175077000 CST
+54813
+clientSum: 1775
+serverSum: 352058
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 30191)
+	 ('server', 39599)
+	 ('server', 22943)
+	 ('server', 17855)
+	 ('server', 0)
+	 ('server', 24767)
+	 ('server', 30911)
+	 ('server', 17567)
+	 ('server', 1247)
+	 ('server', 13199)
+	 ('server', 9935)
+	 ('server', 15023)
+	 ('server', 11711)
+	 ('server', 12479)
+	 ('server', 6335)
+	 ('server', 17567)
+	 ('server', 9935)
+	 ('server', 3791)
+	 ('server', 6335)
+	 ('server', 18623)
+	 ('server', 6335)
+	 ('server', 27407)
+
+Sep 28, 2021 16:00:54.508169000 CST
+Sep 28, 2021 16:00:55.467528000 CST
+54814
+clientSum: 2207
+serverSum: 18381
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 7775)
+	 ('server', 0)
+	 ('server', 9167)
+
+Sep 28, 2021 16:00:56.844763000 CST
+Sep 28, 2021 16:00:57.579869000 CST
+54815
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:00:58.762782000 CST
+Sep 28, 2021 16:00:59.631437000 CST
+54816
+clientSum: 1775
+serverSum: 18478
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8351)
+
+Sep 28, 2021 16:00:59.827976000 CST
+Sep 28, 2021 16:01:00.686774000 CST
+54817
+clientSum: 4318
+serverSum: 4367
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 2975)
+	 ('server', 0)
+	 ('server', 4367)
+
+Sep 28, 2021 16:01:01.868359000 CST
+Sep 28, 2021 16:01:02.561377000 CST
+54818
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:03.727480000 CST
+Sep 28, 2021 16:01:04.428352000 CST
+54819
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:05.605434000 CST
+Sep 28, 2021 16:01:06.269863000 CST
+54820
+clientSum: 1775
+serverSum: 18478
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12719)
+
+Sep 28, 2021 16:01:06.469550000 CST
+Sep 28, 2021 16:01:07.278124000 CST
+54821
+clientSum: 4318
+serverSum: 18381
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 2975)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 7775)
+	 ('server', 9167)
+
+Sep 28, 2021 16:01:08.462648000 CST
+Sep 28, 2021 16:01:09.122030000 CST
+54822
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3935)
+	 ('server', 14303)
+
+Sep 28, 2021 16:01:10.308076000 CST
+Sep 28, 2021 16:01:10.998724000 CST
+54823
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 4511)
+
+Sep 28, 2021 16:01:12.194352000 CST
+Sep 28, 2021 16:01:13.144028000 CST
+54824
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:14.349437000 CST
+Sep 28, 2021 16:01:15.062558000 CST
+54825
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 0)
+	 ('server', 12431)
+
+Sep 28, 2021 16:01:16.229860000 CST
+Sep 28, 2021 16:01:16.919863000 CST
+54826
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:18.084592000 CST
+Sep 28, 2021 16:01:18.762727000 CST
+54827
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:01:19.922116000 CST
+Sep 28, 2021 16:01:20.590047000 CST
+54828
+clientSum: 1775
+serverSum: 18381
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 13199)
+	 ('server', 3743)
+
+Sep 28, 2021 16:01:21.802834000 CST
+Sep 28, 2021 16:01:22.674937000 CST
+54829
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:23.870531000 CST
+Sep 28, 2021 16:01:24.545145000 CST
+54830
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:01:25.722093000 CST
+Sep 28, 2021 16:01:26.411079000 CST
+54831
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:27.589198000 CST
+Sep 28, 2021 16:01:28.261168000 CST
+54832
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:01:29.452330000 CST
+Sep 28, 2021 16:01:30.348531000 CST
+54833
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 16:01:31.631081000 CST
+Sep 28, 2021 16:01:32.623042000 CST
+54834
+clientSum: 1775
+serverSum: 350673
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 13343)
+	 ('server', 0)
+	 ('server', 11567)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 49343)
+	 ('server', 7487)
+	 ('server', 0)
+	 ('server', 14879)
+	 ('server', 39263)
+	 ('server', 49343)
+	 ('server', 27599)
+	 ('server', 49343)
+	 ('server', 7391)
+	 ('server', 18623)
+	 ('server', 39695)
+
+Sep 28, 2021 16:01:33.923450000 CST
+Sep 28, 2021 16:01:34.828809000 CST
+54835
+clientSum: 2207
+serverSum: 18381
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 7775)
+	 ('server', 0)
+	 ('server', 9167)
+
+Sep 28, 2021 16:01:36.110888000 CST
+Sep 28, 2021 16:01:36.846220000 CST
+54836
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:38.033020000 CST
+Sep 28, 2021 16:01:38.718535000 CST
+54837
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:39.934160000 CST
+Sep 28, 2021 16:01:40.649622000 CST
+54838
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:41.828700000 CST
+Sep 28, 2021 16:01:42.553409000 CST
+54839
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 12431)
+
+Sep 28, 2021 16:01:43.741748000 CST
+Sep 28, 2021 16:01:44.419232000 CST
+54840
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:45.600867000 CST
+Sep 28, 2021 16:01:46.318466000 CST
+54841
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:01:47.488397000 CST
+Sep 28, 2021 16:01:48.145005000 CST
+54842
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 8879)
+	 ('server', 8111)
+
+Sep 28, 2021 16:01:49.342604000 CST
+Sep 28, 2021 16:01:50.071325000 CST
+54843
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:01:51.274053000 CST
+Sep 28, 2021 16:01:52.235738000 CST
+54844
+clientSum: 1775
+serverSum: 351103
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 37055)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 49343)
+	 ('server', 18623)
+	 ('server', 0)
+	 ('server', 13199)
+	 ('server', 17855)
+	 ('server', 8879)
+	 ('server', 9935)
+	 ('server', 37775)
+	 ('server', 5567)
+	 ('server', 8879)
+	 ('server', 49343)
+	 ('server', 9935)
+	 ('server', 12479)
+	 ('server', 49343)
+	 ('server', 8975)
+
+Sep 28, 2021 16:01:53.557324000 CST
+Sep 28, 2021 16:01:54.330125000 CST
+54845
+clientSum: 2207
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 0)
+	 ('server', 4367)
+	 ('server', 0)
+	 ('server', 13823)
+
+Sep 28, 2021 16:01:55.630107000 CST
+Sep 28, 2021 16:01:56.535372000 CST
+54846
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:01:57.710001000 CST
+Sep 28, 2021 16:01:58.387846000 CST
+54847
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 0)
+	 ('server', 12431)
+
+Sep 28, 2021 16:01:59.583785000 CST
+Sep 28, 2021 16:02:00.257757000 CST
+54848
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:02:01.450714000 CST
+Sep 28, 2021 16:02:02.351828000 CST
+54849
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:02:03.521418000 CST
+Sep 28, 2021 16:02:04.190220000 CST
+54850
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 14591)
+
+Sep 28, 2021 16:02:05.379750000 CST
+Sep 28, 2021 16:02:06.153912000 CST
+54851
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:02:07.318589000 CST
+Sep 28, 2021 16:02:08.414669000 CST
+54852
+clientSum: 1775
+serverSum: 351103
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 37055)
+	 ('server', 8879)
+	 ('server', 13199)
+	 ('server', 31967)
+	 ('server', 24767)
+	 ('server', 1967)
+	 ('server', 0)
+	 ('server', 17567)
+	 ('server', 28367)
+	 ('server', 34511)
+	 ('server', 6335)
+	 ('server', 13199)
+	 ('server', 46463)
+	 ('server', 20735)
+	 ('server', 6335)
+	 ('server', 17567)
+	 ('server', 40751)
+
+Sep 28, 2021 16:02:09.732912000 CST
+Sep 28, 2021 16:02:10.653248000 CST
+54853
+clientSum: 2207
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 7775)
+
+Sep 28, 2021 16:02:11.952657000 CST
+Sep 28, 2021 16:02:12.648246000 CST
+54854
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3983)
+	 ('server', 0)
+	 ('server', 14255)
+
+Sep 28, 2021 16:02:13.815440000 CST
+Sep 28, 2021 16:02:14.492850000 CST
+54855
+clientSum: 1775
+serverSum: 18335
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18335)
+
+Sep 28, 2021 16:02:14.702651000 CST
+Sep 28, 2021 16:02:15.364060000 CST
+54856
+clientSum: 1631
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 7775)
+	 ('server', 0)
+
+Sep 28, 2021 16:02:16.550939000 CST
+Sep 28, 2021 16:02:17.232556000 CST
+54857
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 0)
+	 ('server', 12431)
+
+Sep 28, 2021 16:02:18.403258000 CST
+Sep 28, 2021 16:02:19.087040000 CST
+54858
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:02:20.276797000 CST
+Sep 28, 2021 16:02:21.016800000 CST
+54859
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:02:22.192727000 CST
+Sep 28, 2021 16:02:22.898809000 CST
+54860
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:02:24.087255000 CST
+Sep 28, 2021 16:02:24.765568000 CST
+54861
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:02:25.945530000 CST
+Sep 28, 2021 16:02:26.629822000 CST
+54862
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:02:27.805106000 CST
+Sep 28, 2021 16:02:28.495915000 CST
+54863
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:02:29.689065000 CST
+Sep 28, 2021 16:02:30.643022000 CST
+54864
+clientSum: 1775
+serverSum: 350435
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 38303)
+	 ('server', 0)
+	 ('server', 6335)
+	 ('server', 0)
+	 ('server', 43199)
+	 ('server', 24767)
+	 ('server', 6335)
+	 ('server', 0)
+	 ('server', 18623)
+	 ('server', 8879)
+	 ('server', 46799)
+	 ('server', 49343)
+	 ('server', 43199)
+	 ('server', 6335)
+	 ('server', 30911)
+	 ('server', 27407)
+
+Sep 28, 2021 16:02:31.984531000 CST
+Sep 28, 2021 16:02:32.687042000 CST
+54865
+clientSum: 2207
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 3647)
+	 ('server', 0)
+	 ('server', 14591)
+
+Sep 28, 2021 16:02:33.870110000 CST
+Sep 28, 2021 16:02:34.554569000 CST
+54866
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 16:02:35.727512000 CST
+Sep 28, 2021 16:02:36.403699000 CST
+54867
+clientSum: 1775
+serverSum: 18239
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18239)
+
+Sep 28, 2021 16:03:06.582274000 CST
+Sep 28, 2021 16:03:07.256846000 CST
+54868
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:03:37.427653000 CST
+Sep 28, 2021 16:03:38.104014000 CST
+54869
+clientSum: 1775
+serverSum: 18478
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 17039)
+
+Sep 28, 2021 16:03:38.302056000 CST
+Sep 28, 2021 16:03:38.966963000 CST
+54870
+clientSum: 4318
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 2975)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:04:09.137685000 CST
+Sep 28, 2021 16:04:09.843073000 CST
+54871
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:04:40.017778000 CST
+Sep 28, 2021 16:04:40.996897000 CST
+54872
+clientSum: 1775
+serverSum: 350960
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 38303)
+	 ('server', 0)
+	 ('server', 30911)
+	 ('server', 8879)
+	 ('server', 34511)
+	 ('server', 6335)
+	 ('server', 0)
+	 ('server', 49343)
+	 ('server', 18623)
+	 ('server', 49343)
+	 ('server', 8879)
+	 ('server', 38831)
+	 ('server', 8111)
+	 ('server', 6335)
+	 ('server', 12479)
+	 ('server', 8879)
+	 ('server', 13199)
+	 ('server', 17999)
+
+Sep 28, 2021 16:04:42.327452000 CST
+Sep 28, 2021 16:04:43.009882000 CST
+54873
+clientSum: 2207
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 7775)
+
+Sep 28, 2021 16:05:13.189408000 CST
+Sep 28, 2021 16:05:13.885298000 CST
+54874
+clientSum: 1775
+serverSum: 18239
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18239)
+
+Sep 28, 2021 16:05:16.062837000 CST
+Sep 28, 2021 16:05:16.753321000 CST
+54875
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:05:18.916442000 CST
+Sep 28, 2021 16:05:19.585138000 CST
+54876
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:05:21.765951000 CST
+Sep 28, 2021 16:05:22.475834000 CST
+54877
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:05:24.654920000 CST
+Sep 28, 2021 16:05:25.373433000 CST
+54878
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 0)
+	 ('server', 10271)
+	 ('server', 0)
+	 ('server', 4511)
+
+Sep 28, 2021 16:05:27.537140000 CST
+Sep 28, 2021 16:05:28.205161000 CST
+54879
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:05:30.393153000 CST
+Sep 28, 2021 16:05:31.122353000 CST
+54880
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:05:33.302776000 CST
+Sep 28, 2021 16:05:33.998084000 CST
+54881
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:05:36.173903000 CST
+Sep 28, 2021 16:05:36.837334000 CST
+54882
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 5615)
+
+Sep 28, 2021 16:05:39.011287000 CST
+Sep 28, 2021 16:05:39.703152000 CST
+54883
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:05:41.870449000 CST
+Sep 28, 2021 16:05:42.546906000 CST
+54884
+clientSum: 1775
+serverSum: 14638
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 13199)
+
+Sep 28, 2021 16:05:44.738835000 CST
+Sep 28, 2021 16:05:45.425728000 CST
+54885
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:05:47.610042000 CST
+Sep 28, 2021 16:05:48.331934000 CST
+54886
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:05:50.518161000 CST
+Sep 28, 2021 16:05:51.207898000 CST
+54887
+clientSum: 1775
+serverSum: 18429
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 4511)
+
+Sep 28, 2021 16:05:53.377546000 CST
+Sep 28, 2021 16:05:54.474529000 CST
+54888
+clientSum: 1775
+serverSum: 674256
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 0)
+	 ('server', 21887)
+	 ('server', 4511)
+	 ('server', 0)
+	 ('server', 49343)
+	 ('server', 11423)
+	 ('server', 17567)
+	 ('server', 2303)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 13199)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 3647)
+	 ('server', 8879)
+	 ('server', 8879)
+	 ('server', 17567)
+	 ('server', 14591)
+	 ('server', 8879)
+	 ('server', 17567)
+	 ('server', 10991)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 13199)
+	 ('server', 13199)
+	 ('server', 6095)
+	 ('server', 13199)
+	 ('server', 4511)
+	 ('server', 13199)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 8879)
+	 ('server', 6383)
+	 ('server', 6335)
+	 ('server', 12479)
+	 ('server', 17567)
+	 ('server', 3887)
+
+Sep 28, 2021 16:05:56.326977000 CST
+Sep 28, 2021 16:05:57.638303000 CST
+54889
+clientSum: 532020
+serverSum: 1439
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 39647)
+	 ('server', 1439)
+
+Sep 28, 2021 16:05:59.837288000 CST
+Sep 28, 2021 16:06:00.510965000 CST
+54890
+clientSum: 1775
+serverSum: 18575
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18575)
+
+Sep 28, 2021 16:06:00.668183000 CST
+Sep 28, 2021 16:06:01.325657000 CST
+54891
+clientSum: 3550
+serverSum: 1439
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 2207)
+	 ('server', 1439)
+
+Sep 28, 2021 16:06:03.492098000 CST
+Sep 28, 2021 16:06:04.191001000 CST
+54892
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:06:06.356201000 CST
+Sep 28, 2021 16:06:07.032490000 CST
+54893
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 0)
+	 ('server', 14591)
+
+Sep 28, 2021 16:06:09.211058000 CST
+Sep 28, 2021 16:06:09.910407000 CST
+54894
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:12.104005000 CST
+Sep 28, 2021 16:06:12.830650000 CST
+54895
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:06:15.005398000 CST
+Sep 28, 2021 16:06:15.701286000 CST
+54896
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:06:17.877754000 CST
+Sep 28, 2021 16:06:18.827492000 CST
+54897
+clientSum: 1775
+serverSum: 350912
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 38303)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 0)
+	 ('server', 34943)
+	 ('server', 36623)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 18623)
+	 ('server', 25487)
+	 ('server', 11711)
+	 ('server', 24767)
+	 ('server', 17567)
+	 ('server', 31967)
+	 ('server', 12479)
+	 ('server', 13199)
+	 ('server', 5567)
+	 ('server', 39263)
+	 ('server', 19055)
+
+Sep 28, 2021 16:06:20.151332000 CST
+Sep 28, 2021 16:06:20.870637000 CST
+54898
+clientSum: 2207
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:23.042457000 CST
+Sep 28, 2021 16:06:23.712559000 CST
+54899
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:25.892726000 CST
+Sep 28, 2021 16:06:26.560342000 CST
+54900
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:28.747279000 CST
+Sep 28, 2021 16:06:29.434121000 CST
+54901
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:31.627739000 CST
+Sep 28, 2021 16:06:32.403525000 CST
+54902
+clientSum: 1775
+serverSum: 18575
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18575)
+
+Sep 28, 2021 16:06:32.553864000 CST
+Sep 28, 2021 16:06:33.214504000 CST
+54903
+clientSum: 3598
+serverSum: 4367
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 2255)
+	 ('server', 0)
+	 ('server', 4367)
+
+Sep 28, 2021 16:06:35.411151000 CST
+Sep 28, 2021 16:06:36.134790000 CST
+54904
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3983)
+	 ('server', 0)
+	 ('server', 14255)
+
+Sep 28, 2021 16:06:38.312664000 CST
+Sep 28, 2021 16:06:38.970371000 CST
+54905
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:41.155867000 CST
+Sep 28, 2021 16:06:41.831976000 CST
+54906
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:44.002282000 CST
+Sep 28, 2021 16:06:44.692593000 CST
+54907
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 14447)
+	 ('server', 3743)
+
+Sep 28, 2021 16:06:46.868772000 CST
+Sep 28, 2021 16:06:47.544228000 CST
+54908
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:49.727669000 CST
+Sep 28, 2021 16:06:50.415955000 CST
+54909
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:52.613956000 CST
+Sep 28, 2021 16:06:53.329942000 CST
+54910
+clientSum: 1775
+serverSum: 18381
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3983)
+	 ('server', 11135)
+	 ('server', 3263)
+
+Sep 28, 2021 16:06:55.500203000 CST
+Sep 28, 2021 16:06:56.181935000 CST
+54911
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:06:58.356380000 CST
+Sep 28, 2021 16:06:59.066698000 CST
+54912
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:07:01.264260000 CST
+Sep 28, 2021 16:07:02.014940000 CST
+54913
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 5615)
+
+Sep 28, 2021 16:07:04.207919000 CST
+Sep 28, 2021 16:07:05.320823000 CST
+54914
+clientSum: 1775
+serverSum: 670199
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 25823)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 49343)
+	 ('server', 14255)
+	 ('server', 6335)
+	 ('server', 1967)
+	 ('server', 0)
+	 ('server', 13199)
+	 ('server', 16079)
+	 ('server', 49343)
+	 ('server', 49343)
+	 ('server', 19151)
+	 ('server', 26015)
+	 ('server', 17567)
+	 ('server', 49343)
+	 ('server', 30287)
+	 ('server', 49343)
+	 ('server', 49343)
+	 ('server', 29423)
+	 ('server', 49343)
+	 ('server', 49343)
+	 ('server', 13823)
+	 ('server', 21887)
+	 ('server', 11711)
+	 ('server', 6431)
+
+Sep 28, 2021 16:07:07.136061000 CST
+Sep 28, 2021 16:07:08.342237000 CST
+54915
+clientSum: 540420
+serverSum: 3647
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 48047)
+	 ('server', 3647)
+	 ('server', 0)
+
+Sep 28, 2021 16:07:10.539080000 CST
+Sep 28, 2021 16:07:11.223487000 CST
+54916
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:07:13.392311000 CST
+Sep 28, 2021 16:07:14.119112000 CST
+54917
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:07:16.294223000 CST
+Sep 28, 2021 16:07:16.957181000 CST
+54918
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 16:07:19.137243000 CST
+Sep 28, 2021 16:07:19.795468000 CST
+54919
+clientSum: 1775
+serverSum: 18190
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 5759)
+	 ('server', 0)
+	 ('server', 12431)
+
+Sep 28, 2021 16:07:21.976564000 CST
+Sep 28, 2021 16:07:22.635438000 CST
+54920
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:07:24.820815000 CST
+Sep 28, 2021 16:07:25.527976000 CST
+54921
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 16:07:27.694155000 CST
+Sep 28, 2021 16:07:28.357816000 CST
+54922
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:07:30.527202000 CST
+Sep 28, 2021 16:07:31.200135000 CST
+54923
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:07:33.387221000 CST
+Sep 28, 2021 16:07:34.092928000 CST
+54924
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:07:36.265609000 CST
+Sep 28, 2021 16:07:36.978335000 CST
+54925
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 5615)
+
+Sep 28, 2021 16:07:39.144583000 CST
+Sep 28, 2021 16:07:39.830997000 CST
+54926
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:07:41.996751000 CST
+Sep 28, 2021 16:07:42.666607000 CST
+54927
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:07:44.827740000 CST
+Sep 28, 2021 16:07:45.952669000 CST
+54928
+clientSum: 1775
+serverSum: 671928
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 38303)
+	 ('server', 0)
+	 ('server', 24767)
+	 ('server', 17567)
+	 ('server', 38111)
+	 ('server', 24767)
+	 ('server', 30911)
+	 ('server', 13199)
+	 ('server', 23999)
+	 ('server', 8879)
+	 ('server', 34511)
+	 ('server', 8879)
+	 ('server', 28367)
+	 ('server', 13199)
+	 ('server', 49343)
+	 ('server', 11711)
+	 ('server', 8879)
+	 ('server', 49343)
+	 ('server', 30911)
+	 ('server', 49343)
+	 ('server', 9935)
+	 ('server', 49343)
+	 ('server', 49343)
+	 ('server', 18623)
+	 ('server', 39695)
+
+Sep 28, 2021 16:07:47.768592000 CST
+Sep 28, 2021 16:07:48.975730000 CST
+54929
+clientSum: 540084
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 47711)
+	 ('server', 1439)
+	 ('server', 7775)
+	 ('server', 0)
+
+Sep 28, 2021 16:07:51.139194000 CST
+Sep 28, 2021 16:07:51.884533000 CST
+54930
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:07:54.056398000 CST
+Sep 28, 2021 16:07:54.773530000 CST
+54931
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 7583)
+	 ('server', 10655)
+
+Sep 28, 2021 16:07:56.946611000 CST
+Sep 28, 2021 16:07:57.656850000 CST
+54932
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:07:59.830344000 CST
+Sep 28, 2021 16:08:00.513757000 CST
+54933
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:08:02.681062000 CST
+Sep 28, 2021 16:08:03.359403000 CST
+54934
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:08:05.542593000 CST
+Sep 28, 2021 16:08:06.214196000 CST
+54935
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 0)
+	 ('server', 14591)
+
+Sep 28, 2021 16:08:08.400432000 CST
+Sep 28, 2021 16:08:09.451693000 CST
+54936
+clientSum: 1775
+serverSum: 351818
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 3647)
+	 ('server', 0)
+	 ('server', 34847)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 18623)
+	 ('server', 18623)
+	 ('server', 6335)
+	 ('server', 12479)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 0)
+	 ('server', 18623)
+	 ('server', 8879)
+	 ('server', 40655)
+	 ('server', 8879)
+	 ('server', 26255)
+	 ('server', 20735)
+	 ('server', 30575)
+	 ('server', 18623)
+	 ('server', 8879)
+	 ('server', 9935)
+	 ('server', 12479)
+	 ('server', 19343)
+	 ('server', 8255)
+
+Sep 28, 2021 16:08:10.757065000 CST
+Sep 28, 2021 16:08:11.431833000 CST
+54937
+clientSum: 2207
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 7775)
+
+Sep 28, 2021 16:08:13.597038000 CST
+Sep 28, 2021 16:08:14.262153000 CST
+54938
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:08:16.438812000 CST
+Sep 28, 2021 16:08:17.138521000 CST
+54939
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:08:19.319867000 CST
+Sep 28, 2021 16:08:19.986186000 CST
+54940
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 16:08:22.163957000 CST
+Sep 28, 2021 16:08:22.860139000 CST
+54941
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:08:25.025761000 CST
+Sep 28, 2021 16:08:25.685676000 CST
+54942
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:08:27.875094000 CST
+Sep 28, 2021 16:08:28.598538000 CST
+54943
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:08:30.777866000 CST
+Sep 28, 2021 16:08:31.462110000 CST
+54944
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:08:33.643817000 CST
+Sep 28, 2021 16:08:34.599612000 CST
+54945
+clientSum: 1775
+serverSum: 350578
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 8255)
+	 ('server', 0)
+	 ('server', 8255)
+	 ('server', 0)
+	 ('server', 20879)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 16079)
+	 ('server', 0)
+	 ('server', 49343)
+	 ('server', 6335)
+	 ('server', 49343)
+	 ('server', 43199)
+	 ('server', 49343)
+	 ('server', 30911)
+	 ('server', 49343)
+	 ('server', 8975)
+
+Sep 28, 2021 16:08:35.919479000 CST
+Sep 28, 2021 16:08:36.595249000 CST
+54946
+clientSum: 2207
+serverSum: 1439
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 2207)
+	 ('server', 1439)
+	 ('server', 0)
+
+Sep 28, 2021 16:08:38.785877000 CST
+Sep 28, 2021 16:08:39.472260000 CST
+54947
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:08:41.618835000 CST
+Sep 28, 2021 16:08:42.275899000 CST
+54948
+clientSum: 1775
+serverSum: 17375
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 17375)
+
+Sep 28, 2021 16:08:44.447344000 CST
+Sep 28, 2021 16:08:45.136689000 CST
+54949
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:08:47.305644000 CST
+Sep 28, 2021 16:08:47.984017000 CST
+54950
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 0)
+	 ('server', 8111)
+
+Sep 28, 2021 16:08:50.151471000 CST
+Sep 28, 2021 16:08:50.815975000 CST
+54951
+clientSum: 1775
+serverSum: 18575
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18575)
+
+Sep 28, 2021 16:08:50.971591000 CST
+Sep 28, 2021 16:08:51.628096000 CST
+54952
+clientSum: 3742
+serverSum: 4367
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 2399)
+	 ('server', 0)
+	 ('server', 4367)
+	 ('server', 0)
+
+Sep 28, 2021 16:08:53.799042000 CST
+Sep 28, 2021 16:08:54.462019000 CST
+54953
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:08:56.652736000 CST
+Sep 28, 2021 16:08:57.346596000 CST
+54954
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:08:59.524362000 CST
+Sep 28, 2021 16:09:00.199049000 CST
+54955
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:09:02.383330000 CST
+Sep 28, 2021 16:09:03.101710000 CST
+54956
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:09:05.279878000 CST
+Sep 28, 2021 16:09:05.951857000 CST
+54957
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:09:08.145117000 CST
+Sep 28, 2021 16:09:08.841137000 CST
+54958
+clientSum: 1775
+serverSum: 16991
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 16991)
+
+Sep 28, 2021 16:09:11.019622000 CST
+Sep 28, 2021 16:09:11.705352000 CST
+54959
+clientSum: 1775
+serverSum: 18239
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18239)
+
+Sep 28, 2021 16:09:16.892350000 CST
+Sep 28, 2021 16:09:17.573819000 CST
+54960
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 8111)
+
+Sep 28, 2021 16:09:22.757654000 CST
+Sep 28, 2021 16:09:23.503395000 CST
+54961
+clientSum: 1775
+serverSum: 18478
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+	 ('server', 431)
+
+Sep 28, 2021 16:09:23.725848000 CST
+Sep 28, 2021 16:09:24.402186000 CST
+54962
+clientSum: 1631
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1631)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:09:29.598868000 CST
+Sep 28, 2021 16:09:30.324112000 CST
+54963
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:09:35.514348000 CST
+Sep 28, 2021 16:09:36.218003000 CST
+54964
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 0)
+	 ('server', 8111)
+
+Sep 28, 2021 16:09:41.405318000 CST
+Sep 28, 2021 16:09:42.136744000 CST
+54965
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:09:47.275655000 CST
+Sep 28, 2021 16:09:47.943826000 CST
+54966
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:09:53.136630000 CST
+Sep 28, 2021 16:09:54.300871000 CST
+54967
+clientSum: 1775
+serverSum: 673741
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 25823)
+	 ('server', 0)
+	 ('server', 12479)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 9935)
+	 ('server', 13199)
+	 ('server', 5567)
+	 ('server', 18623)
+	 ('server', 6335)
+	 ('server', 6335)
+	 ('server', 0)
+	 ('server', 21887)
+	 ('server', 49343)
+	 ('server', 7487)
+	 ('server', 20303)
+	 ('server', 13199)
+	 ('server', 49343)
+	 ('server', 8111)
+	 ('server', 3791)
+	 ('server', 13199)
+	 ('server', 17855)
+	 ('server', 13199)
+	 ('server', 11711)
+	 ('server', 17567)
+	 ('server', 7391)
+	 ('server', 21887)
+	 ('server', 49343)
+	 ('server', 7487)
+	 ('server', 49343)
+	 ('server', 16175)
+	 ('server', 49343)
+	 ('server', 49343)
+	 ('server', 14831)
+	 ('server', 1919)
+	 ('server', 13199)
+	 ('server', 26687)
+
+Sep 28, 2021 16:09:56.115076000 CST
+Sep 28, 2021 16:09:57.288076000 CST
+54968
+clientSum: 548627
+serverSum: 9214
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 7151)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 7775)
+
+Sep 28, 2021 16:10:02.464896000 CST
+Sep 28, 2021 16:10:03.153419000 CST
+54969
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:10:08.327082000 CST
+Sep 28, 2021 16:10:08.994766000 CST
+54970
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 12623)
+	 ('server', 0)
+	 ('server', 5615)
+
+Sep 28, 2021 16:10:14.160569000 CST
+Sep 28, 2021 16:10:14.837210000 CST
+54971
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:10:19.985985000 CST
+Sep 28, 2021 16:10:20.669327000 CST
+54972
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:10:25.845714000 CST
+Sep 28, 2021 16:10:26.526720000 CST
+54973
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 0)
+	 ('server', 16799)
+
+Sep 28, 2021 16:10:31.700373000 CST
+Sep 28, 2021 16:10:32.352517000 CST
+54974
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:10:37.526093000 CST
+Sep 28, 2021 16:10:38.209321000 CST
+54975
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 0)
+	 ('server', 9935)
+
+Sep 28, 2021 16:10:43.385833000 CST
+Sep 28, 2021 16:10:44.063572000 CST
+54976
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:10:49.213113000 CST
+Sep 28, 2021 16:10:49.885561000 CST
+54977
+clientSum: 1775
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 8303)
+	 ('server', 9935)
+
+Sep 28, 2021 16:10:55.041308000 CST
+Sep 28, 2021 16:10:56.102796000 CST
+54978
+clientSum: 1775
+serverSum: 675599
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 10127)
+	 ('server', 28367)
+	 ('server', 0)
+	 ('server', 4511)
+	 ('server', 0)
+	 ('server', 8111)
+	 ('server', 0)
+	 ('server', 8879)
+	 ('server', 8879)
+	 ('server', 8879)
+	 ('server', 8879)
+	 ('server', 4511)
+	 ('server', 13199)
+	 ('server', 15647)
+	 ('server', 17567)
+	 ('server', 8879)
+	 ('server', 17567)
+	 ('server', 4847)
+	 ('server', 13199)
+	 ('server', 11711)
+	 ('server', 8879)
+	 ('server', 17567)
+	 ('server', 10991)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 9503)
+	 ('server', 15023)
+	 ('server', 3791)
+	 ('server', 17567)
+	 ('server', 13535)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 17567)
+	 ('server', 10943)
+	 ('server', 17567)
+	 ('server', 8879)
+	 ('server', 8879)
+	 ('server', 4943)
+
+Sep 28, 2021 16:10:57.928668000 CST
+Sep 28, 2021 16:10:59.304777000 CST
+54979
+clientSum: 548675
+serverSum: 18238
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1343)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 0)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 49103)
+	 ('client', 7199)
+	 ('server', 1439)
+	 ('server', 16799)
+
+Sep 28, 2021 16:11:04.477576000 CST
+Sep 28, 2021 16:11:05.157607000 CST
+54980
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
+Sep 28, 2021 16:11:10.313489000 CST
+Sep 28, 2021 16:11:11.019020000 CST
+54981
+clientSum: 1775
+serverSum: 18047
+	 ('client', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('server', 0)
+	 ('client', 0)
+	 ('server', 0)
+	 ('client', 1775)
+	 ('server', 0)
+	 ('server', 18047)
+
